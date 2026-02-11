@@ -1,0 +1,3 @@
+ADMIN;admin;123;Administrador Principal;30;8888-8888;admin@mail.com;Administrador
+CLERK;clerk;123;Empleado Prueba;22;7777-7777;clerk@mail.com
+ADMIN;1;1;1;19;1;1;administrador
