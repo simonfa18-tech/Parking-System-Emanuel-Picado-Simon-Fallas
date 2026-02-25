@@ -1,0 +1,7 @@
+1;Liviano;2;500.0
+2;Moto;4;1000.0
+3;Pesado;8;2000.0
+4;Bici;2;200.0
+5;Otro;4;1500.0
+6;Cuadraciclo;4;1000.0
+8;BiciMoto;2;500.0

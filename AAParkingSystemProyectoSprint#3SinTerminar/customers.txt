@@ -1,0 +1,8 @@
+1;Pedro;false
+2;2;false
+123;Simon Fallas;false
+1234;Marcelo;false
+10;Luka Modric;false
+0606;Emmanuel;true
+5;Simon;true
+6;mATIAS;false
